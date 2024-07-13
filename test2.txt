@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Hello World
-=======
-Hell Wolrd MBebars
->>>>>>> origin/mbebars
